@@ -65,7 +65,7 @@ This documentation outlines the Jobs Find Backend API functionality.
 ## Build Setup
 
 1. Clone repository
-   `$ git clone https://github.com/mahendrabp/expressjs-crud-boilerplate`
+   `$ git clone https://github.com/jeanmarie110/JobApp/tree/main/Backend`
 
 2. Install depedencies
 
@@ -170,9 +170,6 @@ Each response will be returned with one of the following HTTP status codes:
 
 ---
 
-## License and Support
 
-For API support, please contact me
-[mahendrabp](https://github.com/mahendrabp 'mahendrabp')
 
-Copyright © 2019 by Mahendra Bimantara Putra
+Copyright © 2022 by HAPPY NESS
