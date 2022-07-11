@@ -53,8 +53,8 @@ This is a simple job posting web application made with react.js
 clone the repository
 
 ```sh
-$ git clone https://github.com/mahendrabp/jobposting-app-react
-$ cd jobposting-app-react
+$ git clone https://github.com/jeanmarie110/JobApp/tree/main/Frontend
+$ cd Frontend
 ```
 
 ##### Install Depedencies
@@ -64,10 +64,6 @@ Install requirement depedencies
 ```sh
 $ npm install
 ```
-
-##### Setup Environment
-
-Before start server development or build for production, you should create new .env file. you can found the backend server here.. [https://github.com/mahendrabp/expressjs-crud-boilerplate](https://github.com/mahendrabp/expressjs-crud-boilerplate)
 
 <!--
 ```sh
