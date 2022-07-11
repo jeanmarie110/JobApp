@@ -1,21 +1,5 @@
 # CrownHire : Job posting app
 
-<p align="center">
-    <img title="login" src="https://i.ibb.co/fDVYqwh/login.png" width='50%' height='50%'/>
-</p>
-
-<p align="center">
-    <img title="dashboard" src="https://i.ibb.co/ZBhVH9P/dashboard.png" width='80%' height='60%'/>
-</p>
-<p align="center">
-    <img title="form" src="https://i.ibb.co/MCkTHT0/addjobform.png" width='50%' height='50%' />
-</p>
-<p align="center">
-    <img title="detail" src="https://i.ibb.co/LrvjTGZ/detail.png" />
-</p>
-<p align="center">
-    <img title="companylist" src="https://i.ibb.co/2NDySfR/companylist.png" width='60%' height='60%'/>
-</p>
 
 ## Table Of Contents
 
@@ -59,12 +43,6 @@ This is a simple job posting web application made with react.js
 
 ---
 
-### Related Projects
-
-This project is related to several platforms, you can check it below
-
-- Backend with Node.js [https://github.com/mahendrabp/expressjs-crud-boilerplate](https://github.com/mahendrabp/expressjs-crud-boilerplate)
-- Mobile App (Android) [https://github.com/mahendrabp/CrownHire-JobpostingApp](https://github.com/mahendrabp/CrownHire-JobpostingApp)
 
 ---
 
@@ -129,9 +107,5 @@ List of depedencies using in this project
 | [Redux Promise Middleware](https://www.npmjs.com/package/redux-promise-middleware) | Promise handler for react redux                                                                    |
 | [Local-storage]()                                                                  | web storage that allows Javascript websites and apps to store and access data right in the browser |
 
-## License and Support
 
-For Bug report, please contact me
-[mahendrabp](https://github.com/mahendrabp 'mahendrabp')
-
-Copyright © 2019 by Mahendra Bimantara Putra
+Copyright © 2022 by HAPPY NESS
